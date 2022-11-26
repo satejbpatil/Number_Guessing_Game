@@ -7,6 +7,7 @@ import java.awt.event.*;
 
 class Guess extends JFrame
 {
+    JTextField t1, t2, t3, t4;
     JLabel j4; 
     ButtonListener bl1;
     ButtonListener2 bl2;
